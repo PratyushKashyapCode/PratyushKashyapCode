@@ -8,7 +8,7 @@ I'm learning C and C++ — not just as tools, but as keys to unlock the machine'
 
  🌱 Who I Am
 
-- 🎓 Student: 1st Year, 2nd Semester  
+- 🎓 Student: 1st Year, 3rd Semester  
 - 🧠 Branch: CSE — Artificial Intelligence & Machine Learning  
 - 🧭 Learning Path: I follow doubts. I trace errors. I connect ideas.  
 - 📚 Current Focus: Writing C/C++ code, understanding memory, learning how computers really "think"  
