@@ -69,7 +69,7 @@ ChatGPT is not just a tool I use — it’s a conversation I return to when I’
 
  🌐 Let's Connect Thought Circuits
 
-- 📧 Email: [pratyushkashyap369@gmail.com](mailto:pratyushkashyap369@gmail.com)  
+- 📧 Email: [pratyushkashyapcode161@gmail.com](mailto:pratyushkashyapcode161@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/pratyush-kashyap-08a123250](https://www.linkedin.com/in/pratyush-kashyap-08a123250)
 
 
