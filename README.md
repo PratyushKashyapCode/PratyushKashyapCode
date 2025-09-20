@@ -100,5 +100,8 @@ This profile and future creations will be under [MIT License](./LICENSE). Sharin
 > — Helen Hayes
 <!---
 PratyushKashyapCode/PratyushKashyapCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![An image of @pratyushkashyapcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratyushkashyapcode)](https://holopin.io/@pratyushkashyapcode)
+
 You can click the Preview link to take a look at your changes.
 --->
