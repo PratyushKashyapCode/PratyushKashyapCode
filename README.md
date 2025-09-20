@@ -102,6 +102,10 @@ This profile and future creations will be under [MIT License](./LICENSE). Sharin
 
 [![An image of @pratyushkashyapcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratyushkashyapcode)](https://holopin.io/@pratyushkashyapcode)
 
+
+
+## 🔹 Fun / Progress GIF
+![Coding GIF](https://github.com/pratyushkashyapcode/myrepo/blob/main/my-coding.gif?raw=true)
 <!---
 PratyushKashyapCode/PratyushKashyapCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
